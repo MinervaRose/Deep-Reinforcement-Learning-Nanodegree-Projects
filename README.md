@@ -2,6 +2,9 @@
 
 # Phase 3 of the PyTorch Scholarship Challenge
 
+*Note: 12/10/2019, this repository was updated with the previously submitted projects 12/10/2019.* 
+
+
 They call us the :star2: survivors :star2:
 
 I graduated with the [Deep Reinforcement Learning for Enterprise Nanodegree on September 4, 2019](https://confirm.udacity.com/343VJT4R).
@@ -12,4 +15,4 @@ I am very grateful to Udacity, to the amazing community, and to Facebook Artific
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/39020690/64229805-de46d880-ceb8-11e9-9e79-cb54a1b96c30.png)
 
-This repository will be updated with the projects I submitted very soon. 
+
