@@ -2,8 +2,6 @@
 
 # Phase 3 of the PyTorch Scholarship Challenge
 
-*Note: 12/10/2019, this repository was updated with the previously submitted projects 12/10/2019.* 
-
 
 They call us the :star2: survivors :star2:
 
