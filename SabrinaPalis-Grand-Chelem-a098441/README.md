@@ -6,7 +6,7 @@ DRLND Collaboration and Competition
 This repository contains my submission to the third project of the [Udacity's Deep Reinforcement Learning Nanodegree program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 All of the code is in PyTorch (v0.4) and Python 3. 
 
-*Only interested in the implementation? [Read the report now](https://github.com/SabrinaPalis/Grand-Chelem/blob/master/report.pdf).*
+*Only interested in the implementation? [Read the report now](https://github.com/SabrinaPalis/Deep-Reinforcement-Learning-Nanodegree-Projects/blob/master/SabrinaPalis-Grand-Chelem-a098441/report.pdf).*
 
 The present README file:
 
@@ -144,6 +144,6 @@ To know more about the
 
 :small_blue_diamond: model architecture
 
-you may wish to have a look at [the report](https://github.com/SabrinaPalis/Grand-Chelem/blob/master/report.pdf) that I submitted as part of this project.
+you may wish to have a look at [the report](https://github.com/SabrinaPalis/Deep-Reinforcement-Learning-Nanodegree-Projects/blob/master/SabrinaPalis-Grand-Chelem-a098441/report.pdf) that I submitted as part of this project.
 
 
